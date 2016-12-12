@@ -2,10 +2,10 @@
 
 <p>In this project, we will continue to work with Javascript and HTML but also include manipulating the CSS.</p>
 
-<h5>Objective</h5>
+<h4>Objective</h4>
 <p>Create a simple web application using <b>HTML</b>, <b>Javascript (js)</b> and <b>CSS</b> to create interactive boxes. You will apply the two js events previously researched and change the background color of the boxes.</p>
 
-<h5>Requirements</h5>
+<h4>Requirements</h4>
 <ul>
   <li>Sublime Text</li>
   <li>Chrome</li>
